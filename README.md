@@ -1,6 +1,6 @@
 # demo1
-<H1>
+<H2>
 my first git repo.
-</H1><br>
+</H2><br>
 Author - Jayak
 
